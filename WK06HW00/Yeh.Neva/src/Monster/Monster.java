@@ -1,11 +1,18 @@
 package Monster;
 
+import Ability.Attack;
+
 import java.util.HashMap;
 import java.util.Objects;
+import java.util.Random;
 
 public abstract class Monster {
     private Integer hp;
     private Integer xp;
+    Integer agi = 5;
+    Integer def = 5;
+    Integer str = 5;
+    Attack attack;
     private Integer maxHP;
     private HashMap<String, Integer> items;
 
@@ -14,6 +21,10 @@ public abstract class Monster {
         hp = this.maxHP;
         this.xp = xp;
         this.items=  items;
+    }
+
+    public Integer attackTarget(Monster target) {
+        return attack.attack(target);
     }
 
     public Integer getHp() {
@@ -38,6 +49,39 @@ public abstract class Monster {
 
     public Integer getMaxHP() {
         return maxHP;
+    }
+
+    public Integer getAgi() {
+        return agi;
+    }
+
+    public Integer getDef() {
+        return def;
+    }
+
+    public Integer getStr() {
+        return str;
+    }
+
+    /**
+     * This method returns an integer value between min and max
+     * This is goofy. rand.nextInt(n) returns a number between 0-n
+     * to get the value we want, a value between str - maxStr,
+     * We need to get a random number from maxStr-str and
+     * add str back in
+     * @param min an integer
+     * @param max an integer
+     * @return a random integer between min and max
+     */
+    Integer getAttribute(Integer min, Integer max) {
+        Random rand = new Random();
+        if(min > max) {
+            Integer temp = min;
+            min = max;
+            max = temp;
+        }
+        //returns a random number between min and max inclusive
+        return rand.nextInt(max-min) + min;
     }
 
     @Override
