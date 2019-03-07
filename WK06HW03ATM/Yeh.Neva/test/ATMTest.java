@@ -125,7 +125,7 @@ class ATMTest {
 
         machine1.withdrawal("Alice", 1234, 10);
 
-        assertEquals(5010, alice.getBalance());
+        assertEquals(4990, alice.getBalance());
     }
 
     @Test
@@ -217,7 +217,7 @@ class ATMTest {
         machine1.setMachineBalance(500);
         machine1.deposit("Alice", 1234, 10);
 
-        assertEquals(4990, alice.getBalance());
+        assertEquals(5010, alice.getBalance());
 
     }
 

@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="527b788d-f0e6-48a7-b17a-c266a78e9814" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../WK06HW00/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WK06HW00/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WK06HW00/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WK06HW00/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WK06HW00/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WK06HW00/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WK06HW00/Yeh.Neva/Yeh.Neva.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WK06HW00/Yeh.Neva/src/Ability/Ability.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WK06HW00/Yeh.Neva/src/Ability/Attack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WK06HW00/Yeh.Neva/src/Ability/MeleeAttack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WK06HW00/Yeh.Neva/src/Ability/RangedAttack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WK06HW00/Yeh.Neva/src/Driver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WK06HW00/Yeh.Neva/src/Monster/Imp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WK06HW00/Yeh.Neva/src/Monster/Kobold.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WK06HW00/Yeh.Neva/src/Monster/Monster.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WK06HW00/out/production/Yeh.Neva/Ability/Ability.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WK06HW00/out/production/Yeh.Neva/Ability/Attack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WK06HW00/out/production/Yeh.Neva/Ability/MeleeAttack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WK06HW00/out/production/Yeh.Neva/Ability/RangedAttack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WK06HW00/out/production/Yeh.Neva/Driver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WK06HW00/out/production/Yeh.Neva/Monster/Imp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WK06HW00/out/production/Yeh.Neva/Monster/Kobold.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WK06HW00/out/production/Yeh.Neva/Monster/Monster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,8 +21,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Yeh.Neva/src/Ability/Ability.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="68">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -61,7 +39,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Yeh.Neva/src/Ability/MeleeAttack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="153">
               <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
               <folding>
                 <element signature="e#153#154#0" expanded="true" />
@@ -87,8 +65,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Yeh.Neva/src/Driver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="45" lean-forward="true" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+            <state relative-caret-position="209">
+              <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -113,8 +91,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Yeh.Neva/src/Monster/Imp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="7" column="75" selection-start-line="7" selection-start-column="75" selection-end-line="7" selection-end-column="75" />
+            <state relative-caret-position="136">
+              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -125,8 +103,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Yeh.Neva/src/Monster/Kobold.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+            <state relative-caret-position="289">
+              <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -163,9 +141,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="660" />
-    <option name="width" value="759" />
-    <option name="height" value="735" />
+    <option name="x" value="948" />
+    <option name="width" value="981" />
+    <option name="height" value="1032" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -173,6 +151,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -201,8 +181,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -258,17 +236,19 @@
       <workItem from="1551420526824" duration="8723000" />
       <workItem from="1551429509725" duration="4459000" />
       <workItem from="1551637472877" duration="24000" />
+      <workItem from="1551993063267" duration="1165000" />
+      <workItem from="1551997189075" duration="961000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13206000" />
+    <option name="totallyTimeSpent" value="15332000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15128593" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08825911" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -359,10 +339,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Yeh.Neva/src/Monster/Monster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Yeh.Neva/src/Monster/Imp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Yeh.Neva/src/Monster/Kobold.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Yeh.Neva/src/Ability/Ability.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
@@ -375,7 +387,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Yeh.Neva/src/Ability/MeleeAttack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="153">
           <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
           <folding>
             <element signature="e#153#154#0" expanded="true" />
@@ -395,42 +407,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Yeh.Neva/src/Monster/Monster.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#592#593#0" expanded="true" />
-            <element signature="e#636#637#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Yeh.Neva/src/Monster/Imp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" column="75" selection-start-line="7" selection-start-column="75" selection-end-line="7" selection-end-column="75" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Yeh.Neva/src/Monster/Kobold.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Yeh.Neva/src/Driver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="45" lean-forward="true" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+        <state relative-caret-position="209">
+          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

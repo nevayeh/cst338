@@ -131,7 +131,7 @@ public class ATM {
                 System.out.println("Succeed - withdrawal");
 
                 machineBalance -= balance;
-                customer.addMoney(balance);
+                customer.removeMoney(balance);
 
                 withdrawalSuccessCount++;
             }
@@ -168,7 +168,7 @@ public class ATM {
                 System.out.println("Succeed - deposit");
 
                 machineBalance += balance;
-                customer.removeMoney(balance);
+                customer.addMoney(balance);
 
                 depositSuccessCount++;
             }
