@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Airline</string>
+
+    <string name="create_account">Create\nAccount</string>
+    <string name="username">USERNAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="confirm">Confirm</string>
+
+    <string name="make_reservation">Make\nReservation</string>
+    <string name="origin">Origin</string>
+    <string name="destination">Destination</string>
+    <string name="seats">Seats</string>
+    <string name="flight_number">Flight Number</string>
+
+    <string name="cancel_reservation">Cancel Reservation</string>
+
+    <string name="manage">Manage</string>
+
+    <string name="welcome">Welcome to The Flying Otter</string>
+</resources>
