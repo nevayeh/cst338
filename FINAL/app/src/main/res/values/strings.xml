@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Airpwane</string>
+    <string name="create_account">Create Account</string>
+    <string name="make_reservation">Make Reservation</string>
+    <string name="cancel_reservation">Cancel Reservation</string>
+    <string name="manage">Manage</string>
+    <string name="welcome">Welcome to Airpwane</string>
+</resources>

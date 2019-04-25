@@ -12,7 +12,6 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity {
 
     EditText input;
-    TextView mTextView;
     Button button;
     Double value;
 
@@ -32,6 +31,8 @@ public class MainActivity extends AppCompatActivity {
                     value = Double.parseDouble(input.getText().toString());
                 } catch (NumberFormatException e) {
                     Log.d("C_TO_F", "Coudln't convert to double");
+                    input.setText("0.0");
+                    value = 0.0;
                 }
 
                 button.setText(cToF());
@@ -48,8 +49,8 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
-    // F to C ==> ((val -32 ) * 5 ) / 9
+
     private String cToF(){
-        return ((value * 9) / 5 + 32) + "";
+        return String.format("%.2f", ((value * 9 / 5 + 32))) + "";
     }
 }
