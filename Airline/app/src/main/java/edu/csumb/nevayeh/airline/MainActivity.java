@@ -26,6 +26,7 @@ import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
 
+    Button logIn;
     Button createAccount;
     Button makeReservation;
 
@@ -33,6 +34,15 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        logIn = findViewById(R.id.logInButton);
+        logIn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v){
+                Intent intent = new Intent(MainActivity.this, LogInActivity.class);
+                startActivity(intent);
+            }
+        });
 
         createAccount = findViewById(R.id.createAccountButton);
         createAccount.setOnClickListener(new View.OnClickListener() {

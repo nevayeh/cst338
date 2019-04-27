@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">Airline</string>
 
+    <string name="log_in">Log In</string>
+    <string name="log_in_caps">LOG IN</string>
+    <string name="back_button">Back</string>
+
     <string name="create_account">Create\nAccount</string>
     <string name="username">USERNAME</string>
     <string name="password">PASSWORD</string>
